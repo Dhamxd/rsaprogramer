@@ -83,7 +83,7 @@ def banner():
                              |___/                                                   
 """%(N))                                                    
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Nama       : Rana Aahil
+ [\x1b[1;96m+%s] Nama       : b4ngcyber
  [\x1b[1;96m+%s] Github      : https://github.com/rsaprogramers
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def kontol():
@@ -97,15 +97,14 @@ def kontol():
         \/       \/     \/     \/     \/                                                                                                    
 {P}[•]{B}----------------------------------------------------{P}[•]
 {B} |
-{P}[•] AUTHOR: Rana Aahil""")
+{P}[•] AUTHOR: b4ngcyber""")
 def licensi():#line:42
   try :#line:43
     os .system ('clear')
     kontol()
     print (f"""
-{U}[{P}1{U}]{P} [+]Beli Lisensi
-{U}[{P}2{U}]{P} [+]Masukan Masukan Lisensi
-{U}[{P}1{U}]{P} [+]Gabung Grup WhatshApp
+{U}[{P}1{U}]{P} [+]apii? Chat whatsapp
+{U}[{P}2{U}]{P} [+]Masukan Masukan api
 {U}[{P}4{U}]{P} Keluar {U}[{H}Exit{U}]{H}
 """)#line:49
     OOO00O0OOO00OO00O =input (f"{H}[{P}?{H}]{P} ===> Pilih :{K} ")#line:50
